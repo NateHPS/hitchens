@@ -1,6 +1,6 @@
 ---
 title: Do Trees Dream?
-author: nate
+author: anonymous scribe
 category: interview
 layout: post
 ---
