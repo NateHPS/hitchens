@@ -4,7 +4,7 @@ author: nate
 category: interview
 layout: post
 ---
-# Do Trees Dream?
+# In thy slumber doth thine leaves discern the whispers of eternity?
 We interviewed a tree to find out.
 
 *Tree, do you dream?*
