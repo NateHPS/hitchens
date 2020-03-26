@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Undoubtably one of the great minds of our time, Christopher Hitchens challenged his readers to think deeply on topics of politics, religion, war, and science. This Jekyll theme is designed in his memory.
+Highland Paranormal Society is an international society of researchers, artists, mystics, and social degenerates interested in the exploration and understanding of imagined worlds. Highland Paranormal Society publishes tabletop roleplaying games and other art. Nate Treme is the Society's founder and lead researcher. Located somewhere in the Highland neighborhood of Shreveport, Louisiana, he oversees the Society's machinations and manages The Archive, a collection of artifacts the Society has deemed *significant.*
 
 <figure>
   <img alt="Christopher Hitchens" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Christopher_Hitchens_2008-04-24_001.jpg" />
