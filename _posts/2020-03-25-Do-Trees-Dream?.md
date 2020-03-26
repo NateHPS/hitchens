@@ -13,4 +13,4 @@ As instructed, I interviewed a tree to find out.
 >
 >*Thanks, Tree.*
 
-![oak-tree_1_sm.gif](https://etc.usf.edu/clipart/4300/4392/oak-tree_1_sm.gif)
+![poplar_16165_lg.gif](https://etc.usf.edu/clipart/16100/16165/poplar_16165_lg.gif)
