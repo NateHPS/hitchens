@@ -13,4 +13,4 @@ We interviewed a tree to find out.
 
 *Thanks, Tree.*
 
-![oak-tree_1_md.gif](https://etc.usf.edu/clipart/4300/4392/oak-tree_1_md.gif)
+![oak-tree_1_sm.gif](https://etc.usf.edu/clipart/4300/4392/oak-tree_1_sm.gif)
