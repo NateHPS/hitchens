@@ -4,7 +4,6 @@ author: anonymous scribe
 category: interview
 layout: post
 ---
-### In thy slumber doth thine leaves discern the whispers of eternity?
 As instructed, I interviewed a tree to find out.
 
 >*Tree, do you dream?*  
@@ -12,3 +11,4 @@ As instructed, I interviewed a tree to find out.
 >*Thanks, Tree.*  
 
 ![dreamtree.gif](/assets/images/dreamtree.gif)
+>### In thy slumber doth thine leaves discern the whispers of eternity?
