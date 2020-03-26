@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Do not fear, explore.
 url: "https://focused-sinoussi-5febc4.netlify.com" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:               ''
-icon: /assets/images/about_logo_doodad.png
+icon: assets/images/about_logo_doodad.png
 twitter_username: natetreme
 
 # Build settings
