@@ -8,9 +8,7 @@ layout: post
 As instructed, I interviewed a tree to find out.
 
 >*Tree, do you dream?*
->
 >**ONLY NIGHTMARES**
->
 >*Thanks, Tree.*
 
 ![dreamtree.gif](/assets/images/dreamtree.gif)
