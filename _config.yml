@@ -21,7 +21,6 @@ url: "https://focused-sinoussi-5febc4.netlify.com" # the base hostname & protoco
 baseurl:               ''
 icon: /assets/images/about_logo_doodad.png
 twitter_username: natetreme
-github_username:  patdryburgh
 
 # Build settings
 markdown: kramdown
