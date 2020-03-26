@@ -13,4 +13,4 @@ As instructed, I interviewed a tree to find out.
 >
 >*Thanks, Tree.*
 
-![dreamtree.gif](assets/images/dreamtree.gif)
+![dreamtree.gif](/assets/images/dreamtree.gif)
