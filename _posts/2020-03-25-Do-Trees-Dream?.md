@@ -9,6 +9,7 @@ As instructed, I interviewed a tree to find out.
 >*Tree, do you dream?*  
 >**ONLY NIGHTMARES**  
 >*Thanks, Tree.*  
-
-![dreamtree.gif](/assets/images/dreamtree.gif)
->### In thy slumber doth thine leaves discern the whispers of eternity?
+<figure>
+  ![dreamtree.gif](/assets/images/dreamtree.gif)
+  <figcaption>In thy slumber doth thine leaves discern the whispers of eternity?</figcaption>
+</figure>
