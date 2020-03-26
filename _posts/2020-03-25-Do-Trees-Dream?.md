@@ -13,4 +13,4 @@ As instructed, I interviewed a tree to find out.
 >
 >*Thanks, Tree.*
 
-![poplar_16165_lg.gif](https://etc.usf.edu/clipart/16100/16165/poplar_16165_lg.gif)
+![dreamtree.gif](assets/images/dreamtree.gif)
