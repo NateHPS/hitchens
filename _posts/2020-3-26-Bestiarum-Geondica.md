@@ -4,7 +4,7 @@ author: nate
 category: release
 layout: post
 ---
-### Bestiarum Geondica
+### A community bestiary.
 
 >Dear readers, I have described these beings to the best of my ability. Due to the sensory deficits inherent in Geondic travel, I must trust the words I wrote down in the moment. When I try to elaborate from memory I am stricken with extreme headaches and dizziness. Such is the price of wandering in forbidden realms. Perhaps fellow sojourners of the Spheres Beyond can recognize the creatures I have named here, and supplement further knowledge. -Opal Fernduggle  
 
