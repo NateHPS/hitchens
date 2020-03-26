@@ -46,3 +46,5 @@ paginate_path: "/page/:num/"
 include: ['_pages']
 
 show_excerpts: true
+
+hide_credits: true
