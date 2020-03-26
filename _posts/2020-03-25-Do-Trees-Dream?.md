@@ -10,6 +10,6 @@ As instructed, I interviewed a tree to find out.
 >**ONLY NIGHTMARES**  
 >*Thanks, Tree.*  
 <figure>
-  ![dreamtree.gif](/assets/images/dreamtree.gif)
+  <img alt="Scribe speaking to tree" src="/assets/images/dreamtree.gif">
   <figcaption>In thy slumber doth thine leaves discern the whispers of eternity?</figcaption>
 </figure>
